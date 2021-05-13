@@ -8,10 +8,8 @@
 	url = https://github.com/katilingban/ppitables
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "washdata"]
 	path = washdata
 	url = https://github.com/katilingban/washdata
 	shallow = true
 	registered = true
-	oncran = true

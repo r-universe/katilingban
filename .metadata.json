@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ppitables",
+    "oncran": true
+  },
+  {
+    "package": "washdata",
+    "oncran": true
+  }
+]
