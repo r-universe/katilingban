@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/katilingban/universe
 	shallow = true
 	branch = HEAD
 [submodule "ppitables"]
@@ -11,5 +11,10 @@
 [submodule "washdata"]
 	path = washdata
 	url = https://github.com/katilingban/washdata
+	shallow = true
+	registered = true
+[submodule "ennet"]
+	path = ennet
+	url = https://github.com/katilingban/ennet
 	shallow = true
 	registered = true
