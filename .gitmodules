@@ -1,13 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/katilingban/universe
+	url = https://github.com/katilingban/katilingban.r-universe.dev
 	branch = HEAD
+[submodule "ennet"]
+	path = ennet
+	url = https://github.com/katilingban/ennet
 [submodule "ppitables"]
 	path = ppitables
 	url = https://github.com/katilingban/ppitables
 [submodule "washdata"]
 	path = washdata
 	url = https://github.com/katilingban/washdata
-[submodule "ennet"]
-	path = ennet
-	url = https://github.com/katilingban/ennet
