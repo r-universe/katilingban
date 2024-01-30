@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["ennet", "ppitables", "washdata"]
+  "repositories": ["washdata", "ppitables", "ennet"]
 }
