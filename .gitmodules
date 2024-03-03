@@ -5,6 +5,12 @@
 [submodule "ennet"]
 	path = ennet
 	url = https://github.com/katilingban/ennet
+[submodule "katilingban"]
+	path = katilingban
+	url = https://github.com/katilingban/katilingban
+[submodule "motif"]
+	path = motif
+	url = https://github.com/katilingban/motif
 [submodule "ppitables"]
 	path = ppitables
 	url = https://github.com/katilingban/ppitables
