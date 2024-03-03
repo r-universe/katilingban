@@ -8,9 +8,9 @@
 [submodule "katilingban"]
 	path = katilingban
 	url = https://github.com/katilingban/katilingban
-[submodule "motif"]
-	path = motif
-	url = https://github.com/katilingban/motif
+[submodule "paleta"]
+	path = paleta
+	url = https://github.com/katilingban/paleta
 [submodule "ppitables"]
 	path = ppitables
 	url = https://github.com/katilingban/ppitables
