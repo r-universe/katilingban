@@ -8,6 +8,9 @@
 [submodule "katilingban"]
 	path = katilingban
 	url = https://github.com/katilingban/katilingban
+[submodule "pakete"]
+	path = pakete
+	url = https://github.com/katilingban/pakete
 [submodule "paleta"]
 	path = paleta
 	url = https://github.com/katilingban/paleta
